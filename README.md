@@ -1,1 +1,0 @@
-# SAT-Solving-Algorithms-Implementation
